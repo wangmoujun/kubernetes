@@ -1,1 +1,1 @@
-FROM gcr.io/google-containers/pause/v3.1.tag
+FROM gcr.io/google-containers/pause:3.1
